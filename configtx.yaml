@@ -17,7 +17,7 @@ Organizations:
         Rule: "OR('OrdererMSP.member')"
     
     OrdererEndpoints: 
-      - orderer.example.com:7050
+      - orderer1.example.com:7050
 
   - &Org1
     Name: Org1MSP
